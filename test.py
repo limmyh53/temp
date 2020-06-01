@@ -1,3 +1,3 @@
-import numpy as n
+import numpy as np
 
 # comment 1
