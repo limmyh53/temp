@@ -1,4 +1,3 @@
-import numpy as np
-Import pandas as pd
+import numpy as n
 
 # comment 1
